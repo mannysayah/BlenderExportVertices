@@ -1,3 +1,6 @@
+# written by: Manny Sayah 2019
+# dataismore.com
+# enjoy!
 import bpy
 
 outputFile = '{where you want to save it}/mesh.csv'
